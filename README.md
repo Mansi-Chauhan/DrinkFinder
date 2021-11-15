@@ -7,7 +7,11 @@ Drink Finder is an Application to find Cocktails/Drinks using multiple filters s
     - Glass
     - Alcoholic/Non Alcoholic
     
+Demo Screenshots:
+
 ![image](https://user-images.githubusercontent.com/86592223/141801526-6ef35ef8-6e13-4fd4-aebe-b7755cafbd55.png)
+
+![image](https://user-images.githubusercontent.com/86592223/141802264-1c3429fc-3157-4b3e-adbd-3b2a8c532f00.png)
 
 ## Available Scripts
 
