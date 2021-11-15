@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An Application to find Cocktails/Drinks
+- Filter Available for:
+    - Ingredients
+    - Category
+    - Glass
+    - Alcoholic/Non Alcoholic
 
 ## Available Scripts
 
