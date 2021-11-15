@@ -6,6 +6,8 @@ An Application to find Cocktails/Drinks
     - Category
     - Glass
     - Alcoholic/Non Alcoholic
+    
+![Screenshot from 2021-11-15 20-12-45](https://user-images.githubusercontent.com/86592223/141801293-b0a5515e-b627-419d-bc9a-df19e0140a8e.png)
 
 ## Available Scripts
 
