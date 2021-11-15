@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Drink Finder App
 
-An Application to find Cocktails/Drinks
-- Filter Available for:
+Drink Finder is an Application to find Cocktails/Drinks using multiple filters such as:
+    - Coktail Name
     - Ingredients
     - Category
     - Glass
